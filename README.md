@@ -23,16 +23,18 @@ function (currentColor){
 
 Inputs and outputs should be valid JavaScript values!
 
-| Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|  Input  |  Output |
+|  -----  |  ------ |
+| 'green' | 'yellow'|
+| 'yellow'| 'red'   |
+| 'red'   | 'green' |
+| 'green' | 'yellow'|
+
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>Takes a color input of green, yellow, or red to return the next color</td>
   </tr>
 </table>
 
